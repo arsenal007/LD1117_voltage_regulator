@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LCSDR-rescue)(type Legacy)(uri ${KIPRJMOD}/LCSDR-rescue.lib)(options "")(descr ""))
+)
