@@ -3,12 +3,12 @@ G04 Gerber job file with board parameters*
 %TF.Part,SinglePCB*%
 G04 Single PCB fabrication instructions*
 %TF.GenerationSoftware,KiCad,Pcbnew,no-vcs-found-a240f88~61~ubuntu14.04.1*%
-%TF.CreationDate,2017-12-06T06:47:01+01:00*%
+%TF.CreationDate,2017-12-09T13:37:58+01:00*%
 %TF.ProjectId,LCSDR,4C435344522E6B696361645F70636200,rev?*%
 %MOMM*%
 G04 Overall board parameters*
-%TJ.B_Size_X,52.100*%
-%TJ.B_Size_Y,14.100*%
+%TJ.B_Size_X,0.000*%
+%TJ.B_Size_Y,0.000*%
 %TJ.B_LayerNum,2*%
 %TJ.B_Overall_Thickness,1.600*%
 %TJ.B_Legend_Present,No*%
@@ -17,10 +17,9 @@ G04 board design rules*
 %TJ.D_PadToPad_Out,0.200*%
 %TJ.D_PadToTrack_Out,0.200*%
 %TJ.D_TrackToTrack_Out,0.200*%
-%TJ.D_MinLineWidth_Out,0.300*%
+%TJ.D_MinLineWidth_Out,0.400*%
 %TJ.D_TrackToRegion_Out,0.350*%
 %TJ.D_RegionToRegion_Out,0.350*%
 G04 Layer Structure*
 %TJ.L_"Copper,L1,Top",Positive,LCSDR-F.Cu.gtl*%
-%TJ.L_"Profile",Positive,LCSDR-Edge.Cuts.gm1*%
 M02*
